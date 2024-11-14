@@ -1,0 +1,3 @@
+My recording had stop sir due to battery issue and i couldn't save the video. So I am starting from where i have left. Due to minimum charging port.
+
+database is created in MYSQL with XXAMP server.
